@@ -1,0 +1,20 @@
+{
+  "name": "configurando_o_ambiente_de_desenvolvimento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open",
+    "lint": "npx eslint ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.11.4",
+    "nanoid": "^5.0.4",
+    "vite": "^5.0.12"
+  },
+  "type": "module"
+}
